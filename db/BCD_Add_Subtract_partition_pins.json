@@ -1,0 +1,41 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "B_comp[0]",
+					"strict" : false
+				},
+				{
+					"name" : "B_comp[1]",
+					"strict" : false
+				},
+				{
+					"name" : "B_comp[2]",
+					"strict" : false
+				},
+				{
+					"name" : "B_comp[3]",
+					"strict" : false
+				},
+				{
+					"name" : "B[0]",
+					"strict" : false
+				},
+				{
+					"name" : "B[1]",
+					"strict" : false
+				},
+				{
+					"name" : "B[2]",
+					"strict" : false
+				},
+				{
+					"name" : "B[3]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
